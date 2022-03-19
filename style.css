@@ -1,0 +1,76 @@
+.container{
+    width: 360px;
+    height: 360px;
+    outline: 5px solid rgb(196, 59, 139);
+    outline-offset: 5px;
+    
+}
+.square1 {
+    height: 120px;
+    width: 120px;
+  }
+
+  .square2 {
+    height: 120px;
+    width: 120px;
+  }
+  .square3 {
+    height: 120px;
+    width: 120px;
+  }
+.T {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px 1px 0px 1px;
+    height: 20px;
+}
+.L {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px 0px 0px 1px;
+    height: 40px;
+}
+.L0 {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px 0px 1px 1px;
+    height: 40px;
+}
+.G {
+    border-color: black;
+    border-style: solid;
+    border-width: 0px 1px 1px 1px;
+    height: 20px;
+}
+.D {
+    border-color: black;
+    border-style: solid;
+    border-width: 0px 0px 0px 1px;
+}
+.K {
+    border-color: black;
+    border-style: solid;
+    border-width: 0px 0px 0px 1px;
+}
+
+.Gcolor {
+    background-color: rgb(242, 252, 149);
+}
+.triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+}
+#gradi {
+    height: 120px;
+    width: 120px;
+    background-image: radial-gradient(circle, #cfe142, #f2fc95, #d3e623);
+  }
+
+  .circle {
+    height: 30px;
+    width: 30px;
+    
+    border-radius: 50%;
+  }
